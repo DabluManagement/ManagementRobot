@@ -47,9 +47,9 @@ Saitama is a simple one-punch solution to your group management needs and has be
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
 
-##DEPLOYMENT
+## DEPLOYMENT
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DabluManagement/ManagenentRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?templathttps://github.com/DabluManagement/ManagementRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
